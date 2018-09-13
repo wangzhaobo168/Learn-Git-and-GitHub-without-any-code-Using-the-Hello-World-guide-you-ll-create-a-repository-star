@@ -1,0 +1,11 @@
+{
+    "name": "wangzhaobo/laravel_test",
+    "description": "laravel test",
+    "authors": [
+        {
+            "name": "wangzhaobo",
+            "email": "963087326@qq.com"
+        }
+    ],
+    "require": {}
+}
